@@ -1,0 +1,1 @@
+How to make gray camera in Artificial Intelligence using OpenCV

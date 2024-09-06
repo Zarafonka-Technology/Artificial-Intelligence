@@ -1,0 +1,1 @@
+how to draw shape in the window drawing rectangle, line, arrow, and more, write text ... in Artificial Intelligence using OpenCV
